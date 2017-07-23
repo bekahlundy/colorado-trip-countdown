@@ -1,0 +1,22 @@
+.arrival-day, .countdown {
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+}
+
+.countdown {
+  font-size: 30px;
+}
+
+.arrival-day {
+  font-size: 26px;
+}
+
+.hamster-img {
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .countdown {
+    font-size: 26px;
+  }
+}
